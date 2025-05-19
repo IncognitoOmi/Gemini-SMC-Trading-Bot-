@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### 3. Add Your Environment Variables
 GEMINI_API_KEY=your_gemini_api_key
-# https://makersuite.google.com/app/apikey --> get the api key here
+#### https://makersuite.google.com/app/apikey --> get the api key here
 
 ### Run the App
 streamlit run vision-app.py

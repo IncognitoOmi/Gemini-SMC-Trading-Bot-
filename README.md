@@ -1,4 +1,4 @@
-# 📸 Gemini SMC Sniper Entry App
+# 📸 Gemini SMC Trading App
 
 This is a **Streamlit-based AI trading assistant** that analyzes uploaded chart images using **Google's Gemini Vision model** and provides sniper trade setups based on **ICT Smart Money Concepts (SMC)**. The model returns **Buy/Sell signals**, **entry**, **stop loss**, and a detailed **rationale**.
 
